@@ -1,0 +1,27 @@
+{
+  "name": "chemical",
+  "version": "1.0.0",
+  "description": "化工方面的学习和思考之路",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yeshan-Taoist/chemical.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yeshan-Taoist/chemical/issues"
+  },
+  "homepage": "https://github.com/Yeshan-Taoist/chemical#readme",
+  "dependencies": {
+    "vitepress": "^1.0.0-alpha.73",
+    "vue": "^3.2.47"
+  }
+}
