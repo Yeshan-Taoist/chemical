@@ -7,25 +7,23 @@ export const sidebar: DefaultTheme.Sidebar = [
     items: [{ text: "序章", link: "/" }],
   },
   {
-    text: "氧化工艺",
+    text: "氧化工艺考试题库",
+    collapsed: false,
+    items: [
+      {
+        text: "氧化工艺考试题库",
+        link: "/Oxidation-process/Exam-question-bank",
+      },
+    ],
+  },
+  {
+    text: "氧化工艺知识点",
     collapsed: true,
     items: [
       {
         text: "安全生产法律法规",
         collapsed: true,
         items: [
-          {
-            text: "习近平关于安全生产的重要论述",
-            link: "/Oxidation-process/1-1",
-          },
-          {
-            text: "习近平关于安全生产的重要论述",
-            link: "/Oxidation-process/1-1",
-          },
-          {
-            text: "习近平关于安全生产的重要论述",
-            link: "/Oxidation-process/1-1",
-          },
           {
             text: "习近平关于安全生产的重要论述",
             link: "/Oxidation-process/1-1",
