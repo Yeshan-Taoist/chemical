@@ -2,9 +2,5 @@
 import type { DefaultTheme } from "vitepress";
 
 export const nav: DefaultTheme.NavItem[] = [
-  { text: "首页", link: "/" },
-  {
-    text: "氧化工艺",
-    link: "/guide/about",
-  },
+  { text: "博客首页", link: "https://blog.yeshan-taoist.cn" },
 ];
