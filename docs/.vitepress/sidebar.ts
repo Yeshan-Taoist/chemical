@@ -11,12 +11,16 @@ export const sidebar: DefaultTheme.Sidebar = [
     collapsed: false,
     items: [
       {
-        text: "单选题",
+        text: "理论-单选题",
         link: "/Oxidation-process/Exam-question-bank-single",
       },
       {
-        text: "判断题",
+        text: "理论-判断题",
         link: "/Oxidation-process/Exam-question-bank-judgment",
+      },
+      {
+        text: "氧化工艺实操",
+        link: "/Oxidation-process/Hands-on",
       },
     ],
   },
