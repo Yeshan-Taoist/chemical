@@ -25,5 +25,8 @@
     "markdown-it-task-lists": "^2.1.1",
     "vitepress": "^1.0.0-alpha.73",
     "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "@types/node": "^20.1.2"
   }
 }
