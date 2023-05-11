@@ -20,6 +20,9 @@ export default defineConfig({
   markdown: {
     theme: "material-theme-palenight",
     lineNumbers: true,
+    config(md) {
+      md.use(require("markdown-it-task-lists"));
+    },
   },
 
   themeConfig: {
