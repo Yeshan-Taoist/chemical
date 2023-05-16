@@ -249,27 +249,34 @@
 3. 在`气压机系统`关闭压缩机入口蝶阀(**HIC1001**)
 4. 在现场二楼压缩机旁打开级间分液罐顶`安全阀(SPV103)的旁路阀(SPV103B)`
    - 如图所示位置
-   - ![20230516093721](http://qiniu.yeshan-taoist.cn/20230516093721.png)
+   - [找位置](http://qiniu.yeshan-taoist.cn/20230516093721.png)
 5. 关闭汽轮机`入口隔离阀(VI2K101)`
    - 如图所示位置
-   - ![20230516094646](http://qiniu.yeshan-taoist.cn/20230516094646.png)
+   - [找位置](http://qiniu.yeshan-taoist.cn/20230516094646.png)
 6. 关闭汽轮机入口`入口隔离阀(VI2K101)`**前**`蒸汽放空阀(VI3K101)`
    - 如图所示位置
-   - ![20230516095248](http://qiniu.yeshan-taoist.cn/20230516095248.png)
+   - [找位置](http://qiniu.yeshan-taoist.cn/20230516095248.png)
 7. 关闭`轴封蒸汽阀门(VI6K101)`
    - 如图所示位置
-   - ![20230516095600](http://qiniu.yeshan-taoist.cn/20230516095600.png)
+   - [找位置](http://qiniu.yeshan-taoist.cn/20230516095600.png)
 8. 关闭`汽提蒸汽总阀 VI5K101`
    - 如图所示位置
-   - ![20230516095800](http://qiniu.yeshan-taoist.cn/20230516095800.png)
+   - [找位置](http://qiniu.yeshan-taoist.cn/20230516095800.png)
 9. 关闭`复水器二级汽抽入口阀(VI1P105A)`
    - 如图所示位置
-   - ![20230516100317](http://qiniu.yeshan-taoist.cn/20230516100317.png)
+   - [找位置](http://qiniu.yeshan-taoist.cn/20230516100317.png)
 10. 关闭`二级汽抽蒸汽入口阀(VI2P105A)`
     - 如图所示位置
-    - ![20230516100843](http://qiniu.yeshan-taoist.cn/20230516100843.png)
+    - [找位置](http://qiniu.yeshan-taoist.cn/20230516100843.png)
 11. 关闭`复水器一级汽抽入口阀(VI1P106A)`
     - 如图所示位置
-    - ![20230516101106](http://qiniu.yeshan-taoist.cn/20230516101106.png)
+    - [找位置](http://qiniu.yeshan-taoist.cn/20230516101106.png)
 12. 关闭`一级汽抽蒸汽入口阀(VI2P106A)`
-    - 如图所示位置 -![20230516101726](http://qiniu.yeshan-taoist.cn/20230516101726.png)
+    - 如图所示位置
+    - [找位置](http://qiniu.yeshan-taoist.cn/20230516101726.png)
+13. 关闭`复水泵(P103A)的出口阀(P103A0)`
+    - 如图所示位置
+    - [找位置](http://qiniu.yeshan-taoist.cn/20230516102627.png)
+14. 关闭`凝液泵(P101A)出口阀(P101A0)`
+    - 如图所示位置
+    - [找位置](http://qiniu.yeshan-taoist.cn/20230516102842.png)
