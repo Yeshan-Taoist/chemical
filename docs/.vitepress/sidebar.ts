@@ -31,8 +31,28 @@ export const sidebar: DefaultTheme.Sidebar = [
             link: "/Oxidation-process/baozhachuangshangti",
           },
           {
-            text: "科目三",
-            link: "/Oxidation-process/Hands-on",
+            text: "科目三-离心泵",
+            link: "/Oxidation-process/Hands-on-3-1",
+          },
+          {
+            text: "科目三-离心压缩机",
+            link: "/Oxidation-process/Hands-on-3-2",
+          },
+          {
+            text: "科目三-釜式反应器",
+            link: "/Oxidation-process/Hands-on-3-3",
+          },
+          {
+            text: "科目三-固定床反应器",
+            link: "/Oxidation-process/Hands-on-3-4",
+          },
+          {
+            text: "科目三-换热器",
+            link: "/Oxidation-process/Hands-on-3-5",
+          },
+          {
+            text: "科目三-精馏塔",
+            link: "/Oxidation-process/Hands-on-3-6",
           },
         ],
       },
