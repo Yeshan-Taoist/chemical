@@ -11,16 +11,30 @@ export const sidebar: DefaultTheme.Sidebar = [
     collapsed: false,
     items: [
       {
-        text: "理论-单选题",
-        link: "/Oxidation-process/Exam-question-bank-single",
+        text: "理论题库",
+        items: [
+          {
+            text: "单选题",
+            link: "/Oxidation-process/Exam-question-bank-single",
+          },
+          {
+            text: "判断题",
+            link: "/Oxidation-process/Exam-question-bank-judgment",
+          },
+        ],
       },
       {
-        text: "理论-判断题",
-        link: "/Oxidation-process/Exam-question-bank-judgment",
-      },
-      {
-        text: "氧化工艺实操",
-        link: "/Oxidation-process/Hands-on",
+        text: "实操题库",
+        items: [
+          {
+            text: "创伤包扎习题",
+            link: "/Oxidation-process/baozhachuangshangti",
+          },
+          {
+            text: "科目三",
+            link: "/Oxidation-process/Hands-on",
+          },
+        ],
       },
     ],
   },
