@@ -7,6 +7,21 @@ export const sidebar: DefaultTheme.Sidebar = [
     items: [{ text: "序章", link: "/" }],
   },
   {
+    text:"日常安全",
+    collapsed: false,
+    items:[
+      {
+        text:"每周一考",
+        items:[
+          {
+            text:"第一期 20230507",
+            link:"/One-week/20230507",
+          }
+        ]
+      },
+    ]
+  },
+  {
     text: "氧化工艺考试题库",
     collapsed: false,
     items: [
