@@ -7,19 +7,35 @@ export const sidebar: DefaultTheme.Sidebar = [
     items: [{ text: "序章", link: "/" }],
   },
   {
-    text:"日常安全",
+    text: "日常安全",
     collapsed: false,
-    items:[
+    items: [
       {
-        text:"每周一考",
-        items:[
+        text: "每周一考",
+        items: [
           {
-            text:"第一期 20230507",
-            link:"/One-week/20230507",
-          }
-        ]
+            text: "第一期 20230507",
+            link: "/One-week/20230507",
+          },
+          {
+            text: "第二期 20230513",
+            link: "/One-week/20230513",
+          },
+          {
+            text: "第三期 20230521",
+            link: "/One-week/20230521",
+          },
+          {
+            text: "第四期 20230528",
+            link: "/One-week/20230528",
+          },
+          {
+            text: "第五期 20230605",
+            link: "/One-week/20230605",
+          },
+        ],
       },
-    ]
+    ],
   },
   {
     text: "氧化工艺考试题库",
