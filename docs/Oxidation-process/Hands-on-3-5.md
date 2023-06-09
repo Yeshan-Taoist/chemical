@@ -40,7 +40,8 @@
    - 如图所示位置
    - ![20230609115033](http://qiniu.yeshan-taoist.cn/20230609115033.png)
 4. 全开**换热器 E101 管程排气阀 VX2E101**
-   - 如图所示位置 -![20230609115804](http://qiniu.yeshan-taoist.cn/20230609115804.png)
+   - 如图所示位置 
+   - -![20230609115804](http://qiniu.yeshan-taoist.cn/20230609115804.png)
 5. 打开**换热器 E101 管程排液阀 RPY**
    - 如图所示位置
    - ![20230609120848](http://qiniu.yeshan-taoist.cn/20230609120848.png)
