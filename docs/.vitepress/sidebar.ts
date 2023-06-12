@@ -85,6 +85,14 @@ export const sidebar: DefaultTheme.Sidebar = [
             text: "科目三-精馏塔",
             link: "/Oxidation-process/Hands-on-3-6",
           },
+          {
+            text: "科目四-釜式反应器",
+            link: "/Oxidation-process/Hands-on-4-1",
+          },
+          {
+            text: "科目四-固定床反应器",
+            link: "/Oxidation-process/Hands-on-4-2",
+          },
         ],
       },
     ],
