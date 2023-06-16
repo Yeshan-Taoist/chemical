@@ -8,10 +8,11 @@ export const sidebar: DefaultTheme.Sidebar = [
   },
   {
     text: "日常安全",
-    collapsed: false,
+    collapsed: true,
     items: [
       {
         text: "每周一考",
+        collapsed: true,
         items: [
           {
             text: "第一期 20230507",
@@ -39,10 +40,11 @@ export const sidebar: DefaultTheme.Sidebar = [
   },
   {
     text: "氧化工艺考试题库",
-    collapsed: false,
+    collapsed: true,
     items: [
       {
         text: "理论题库",
+        collapsed: true,
         items: [
           {
             text: "单选题",
@@ -56,6 +58,7 @@ export const sidebar: DefaultTheme.Sidebar = [
       },
       {
         text: "实操题库",
+        collapsed: true,
         items: [
           {
             text: "创伤包扎习题",
@@ -92,6 +95,22 @@ export const sidebar: DefaultTheme.Sidebar = [
           {
             text: "科目四-固定床反应器",
             link: "/Oxidation-process/Hands-on-4-2",
+          },
+          {
+            text: "科目四-换热器",
+            link: "/Oxidation-process/Hands-on-4-3",
+          },
+          {
+            text: "科目四-精馏塔",
+            link: "/Oxidation-process/Hands-on-4-4",
+          },
+          {
+            text: "科目四-离心泵",
+            link: "/Oxidation-process/Hands-on-4-5",
+          },
+          {
+            text: "科目四-离心压缩机",
+            link: "/Oxidation-process/Hands-on-4-6",
           },
         ],
       },
