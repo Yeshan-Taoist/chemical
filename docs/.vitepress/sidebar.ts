@@ -34,6 +34,14 @@ export const sidebar: DefaultTheme.Sidebar = [
             text: "第五期 20230605",
             link: "/One-week/20230605",
           },
+          {
+            text: "第六期 20230611",
+            link: "/One-week/20230611",
+          },
+          {
+            text: "第七期 20230618",
+            link: "/One-week/20230618",
+          },
         ],
       },
     ],
