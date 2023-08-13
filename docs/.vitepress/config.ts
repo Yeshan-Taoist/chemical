@@ -21,9 +21,9 @@ export default defineConfig({
     theme: "material-theme-palenight",
     lineNumbers: true,
     config(md) {
-      md.use(require("markdown-it-task-lists"));
-      md.use(require("markdown-it-latex"));
-      md.use(require("markdown-it-sub"));
+      md.use(require("markdown-it-task-lists")).use(
+        require("markdown-it-latex").use(require("markdown-it-sub"))
+      );
     },
   },
 
