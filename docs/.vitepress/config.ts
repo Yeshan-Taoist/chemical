@@ -1,6 +1,9 @@
 import { defineConfig } from "vitepress";
 import { nav } from "./nav";
 import { sidebar } from "./sidebar";
+import tasklists from "markdown-it-task-lists";
+import sub from "markdown-it-sub";
+import latex from "markdown-it-latex";
 
 export default defineConfig({
   base: "/chemical/",
@@ -21,9 +24,9 @@ export default defineConfig({
     theme: "material-theme-palenight",
     lineNumbers: true,
     config(md) {
-      md.use(
-        require("markdown-it-task-lists,markdown-it-latex,markdown-it-sub")
-      );
+      md.use(tasklists);
+      md.use(sub);
+      md.use(latex);
     },
   },
 
