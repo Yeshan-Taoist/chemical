@@ -1,9 +1,6 @@
 import { defineConfig } from "vitepress";
 import { nav } from "./nav";
 import { sidebar } from "./sidebar";
-const tasklists = require("markdown-it-task-lists");
-const latex = require("markdown-it-latex");
-const sub = require("markdown-it-sub");
 
 export default defineConfig({
   base: "/chemical/",
@@ -17,16 +14,34 @@ export default defineConfig({
   //暗黑模式
   appearance: "dark",
 
-  // head: [["link", { rel: "icon", href: "favicon.ico" }]],
+  head: [
+    [
+      "link",
+      {
+        rel: "stylesheet",
+        href: "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.css",
+      },
+    ],
+    [
+      "link",
+      {
+        rel: "stylesheet",
+        href: "https://cdn.jsdelivr.net/github-markdown-css/2.2.1/github-markdown.css",
+      },
+    ],
+  ],
 
   //markdown定义
   markdown: {
     theme: "material-theme-palenight",
     lineNumbers: true,
-    config(md) {
-      md.use(tasklists);
-      md.use(sub);
-      md.use(latex);
+    config: (md) => {
+      // use more markdown-it plugins!
+      md.use(require("markdown-it-task-lists"));
+      md.use(require("markdown-it-sub"));
+      md.use(require("markdown-it-sup"));
+      md.use(require("markdown-it-emoji"));
+      md.use(require("markdown-it-katex"));
     },
   },
 
