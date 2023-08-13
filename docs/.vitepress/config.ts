@@ -1,9 +1,9 @@
 import { defineConfig } from "vitepress";
 import { nav } from "./nav";
 import { sidebar } from "./sidebar";
-import tasklists from "markdown-it-task-lists";
-import sub from "markdown-it-sub";
-import latex from "markdown-it-latex";
+const tasklists = require("markdown-it-task-lists");
+const latex = require("markdown-it-latex");
+const sub = require("markdown-it-sub");
 
 export default defineConfig({
   base: "/chemical/",
