@@ -7,7 +7,7 @@ export const CompanyRelated = [
     items: [
       {
         text: "每周一考",
-        link: "/OneWeek/DailySecurity/TestedEveryWeek",
+        link: "/CompanyRelated/DailySecurity/TestedEveryWeek",
       },
     ],
   },
