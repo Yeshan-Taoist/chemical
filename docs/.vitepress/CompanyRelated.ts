@@ -17,7 +17,7 @@ export const CompanyRelated = [
     items: [
       {
         text: "转化工段",
-        link: "/CompanyRelated/OperationRegulations/ConversionSection",
+        link: "/CompanyRelated/OperationalRegulations/ConversionSection",
       },
       {
         text: "压缩工段",
