@@ -6,7 +6,7 @@ export default defineConfig({
   base: "/chemical/",
   lang: "en-US",
   title: "化工之路",
-  description: "孜孜以求大道，以致人生通达。",
+  description: "孜孜以求大道，以致人生通达",
   lastUpdated: true,
   cleanUrls: true,
   // 忽略死链
