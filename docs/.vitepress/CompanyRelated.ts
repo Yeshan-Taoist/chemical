@@ -12,6 +12,16 @@ export const CompanyRelated = [
     ],
   },
   {
+    text: "季度安全题库",
+    collapsed: true,
+    items: [
+      {
+        text: "2023年第三季度安全考试题库",
+        link: "/CompanyRelated/QuarterlyExam/TheThirdQuater",
+      },
+    ],
+  },
+  {
     text: "操作规程",
     collapsed: true,
     items: [
