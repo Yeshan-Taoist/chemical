@@ -3,6 +3,7 @@ import { ChemicalEngineering } from "./ChemicalEngineering";
 import { ChemicalSafety } from "./ChemicalSafety";
 import { CompanyRelated } from "./CompanyRelated";
 import { OxidationProcess } from "./OxidationProcess";
+import { AmmoniaSynthesisProcess } from "./AmmoniaSynthesisProcess";
 export const sidebar: DefaultTheme.Sidebar = [
   {
     text: "前言",
@@ -37,7 +38,7 @@ export const sidebar: DefaultTheme.Sidebar = [
   {
     text: "合成氨工艺",
     collapsed: true,
-    items: [],
+    items: AmmoniaSynthesisProcess,
   },
   {
     text: "煤气作业",

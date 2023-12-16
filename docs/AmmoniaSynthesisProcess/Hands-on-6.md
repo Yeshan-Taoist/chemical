@@ -77,37 +77,37 @@
 #### 一、在 DCS`K101/K102`画面中
 
 1. 将**压缩机 K101 二段出口压力控制阀 PIC1005** 的 OP 设置为 100%，目的是为缸体泄压
-   ![PIC1005](../source/image/AmmoniaSynthesisProcess/PIC1005-新鲜合成气去合成回路压力.png)
+   ![PIC1005](./../source/image/AmmoniaSynthesisProcess/PIC1005-新鲜合成气去合成回路压力.png)
 
 #### 二、在现场
 
 1. 将**密封油调节阀 LV1061 和 LV1062 的前后手阀`关闭`**
-   ![密封油调节阀前后手阀](../source/image/AmmoniaSynthesisProcess/LV1061andLV%201062-密封油调节阀前后手阀.png)
+   ![密封油调节阀前后手阀](./../source/image/AmmoniaSynthesisProcess/LV1061andLV%201062-密封油调节阀前后手阀.png)
 2. 将**压缩机密封油齿轮泵 P202A/B 的`联锁开关`置"M"位**
-   ![联锁开关位置](../source/image/AmmoniaSynthesisProcess/压缩机密封油齿轮泵P202联锁开关.png)
+   ![联锁开关位置](./../source/image/AmmoniaSynthesisProcess/压缩机密封油齿轮泵P202联锁开关.png)
 3. **打开`真空冷凝器补水阀 VX5E203` 为 E203 及时补液**
-   ![真空冷凝器补水阀](../source/image/AmmoniaSynthesisProcess/VX5E203-真空冷凝器补水阀.png)
+   ![真空冷凝器补水阀](./../source/image/AmmoniaSynthesisProcess/VX5E203-真空冷凝器补水阀.png)
 4. **关闭`一抽抽气阀 VI2L0001A`、`一抽入口蒸汽截断阀 VI1L0001A`、`二抽抽气阀 VI2L0002A`、`二抽入口蒸汽截断阀 VI1L0002A`**
-   ![一抽二抽抽气阀和入口蒸汽截断阀](../source/image/AmmoniaSynthesisProcess/一抽二抽抽气阀和入口蒸汽截断阀.png)
+   ![一抽二抽抽气阀和入口蒸汽截断阀](./../source/image/AmmoniaSynthesisProcess/一抽二抽抽气阀和入口蒸汽截断阀.png)
 5. **关闭`汽封抽气器入口蒸汽截止阀 VT1118`**
-   ![汽封抽气器入口蒸汽截止阀](../source/image/AmmoniaSynthesisProcess/VT1118-汽封抽气器入口蒸汽截止阀.png)
+   ![汽封抽气器入口蒸汽截止阀](./../source/image/AmmoniaSynthesisProcess/VT1118-汽封抽气器入口蒸汽截止阀.png)
 6. **打开`蒸汽导淋阀 VX2HSNY`(位于 E-101 后面)**
-   ![蒸汽导淋阀](../source/image/AmmoniaSynthesisProcess/VX2HSNY-蒸汽导淋阀.png)
+   ![蒸汽导淋阀](./../source/image/AmmoniaSynthesisProcess/VX2HSNY-蒸汽导淋阀.png)
 7. **关闭`抽气蒸汽切断阀 VX1MS` 及其`旁路阀 VX2MS`(这里的旁路阀已经处于关闭状态)**
-   ![抽气蒸汽切断阀及其旁路阀](../source/image/AmmoniaSynthesisProcess/抽气蒸汽切断阀及其旁路阀.png)
+   ![抽气蒸汽切断阀及其旁路阀](./../source/image/AmmoniaSynthesisProcess/抽气蒸汽切断阀及其旁路阀.png)
 8. **关闭`压缩机 K101 入口切断阀 VI1D101` 及其`旁路阀 VI2D101`(这里的旁路阀已经处于关闭状态)**
-   ![压缩机入口切断阀及其旁路阀](../source/image/AmmoniaSynthesisProcess/压缩机入口切断阀及其旁路阀.png)
+   ![压缩机入口切断阀及其旁路阀](./../source/image/AmmoniaSynthesisProcess/压缩机入口切断阀及其旁路阀.png)
 9. **关闭`低压蒸汽阀 VT1109`**
-   ![低压蒸汽阀](../source/image/AmmoniaSynthesisProcess/VT1109-低压蒸汽阀.png)
+   ![低压蒸汽阀](./../source/image/AmmoniaSynthesisProcess/VT1109-低压蒸汽阀.png)
 10. **关闭`主蒸汽入口切断阀 VX1HS`**
-    ![主蒸汽入口切断阀](../source/image/AmmoniaSynthesisProcess/VX1HS-主蒸汽入口切断阀.png)
+    ![主蒸汽入口切断阀](./../source/image/AmmoniaSynthesisProcess/VX1HS-主蒸汽入口切断阀.png)
 
 ### 真空系统液位高
 
 #### 在现场
 
 > 操作设备位置
-> ![凝液泵](../source/image/AmmoniaSynthesisProcess/P203-凝液泵.png)
+> ![凝液泵](./../source/image/AmmoniaSynthesisProcess/P203-凝液泵.png)
 
 1. 关闭凝液泵备用泵 P203B 的出口阀
 2. 将备用泵 P203B 打手动控制
@@ -120,7 +120,10 @@
 
 #### 在现场
 
-1.
+> 操作设备位置
+> ![油冷器](./../source/image/AmmoniaSynthesisProcess/E201-油冷器.png)
+
+1. 打开
 
 ### 冷却水压力低
 

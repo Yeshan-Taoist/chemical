@@ -1,1 +1,0 @@
-import{_ as e,o,c as t,V as a}from"./chunks/framework.55251076.js";const k=JSON.parse('{"title":"化工之路","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md","lastUpdated":1687319643000}'),c={name:"index.md"},l=a("",9),n=[l];function p(s,_,r,i,d,u){return o(),t("div",null,n)}const q=e(c,[["render",p]]);export{k as __pageData,q as default};

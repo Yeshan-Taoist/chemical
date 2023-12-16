@@ -4,6 +4,7 @@ import { sidebar } from "./sidebar";
 
 export default defineConfig({
   base: "/chemical/",
+  // srcDir: "./source",
   lang: "en-US",
   title: "化工之路",
   description: "孜孜以求大道，以致人生通达",
