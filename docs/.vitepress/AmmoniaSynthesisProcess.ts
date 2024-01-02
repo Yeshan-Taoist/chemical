@@ -27,8 +27,16 @@ export const AmmoniaSynthesisProcess = [
             link: "/OxidationProcess/baozhachuangshangti",
           },
           {
+            text: "通用单元-往复式压缩机",
+            link: "/AmmoniaSynthesisProcess/Hands-on-5.md",
+          },
+          {
             text: "特定单元-合成气压缩机",
             link: "/AmmoniaSynthesisProcess/Hands-on-6.md",
+          },
+          {
+            text: "特定单元-合成氨反应系统",
+            link: "/AmmoniaSynthesisProcess/Hands-on-7.md",
           },
         ],
       },

@@ -74,14 +74,14 @@
 
 ### 长时间停电
 
-#### 一、在 DCS`K101/K102`画面中
+#### 在 DCS`K101/K102`画面中
 
 1. 将**压缩机 K101 二段出口压力控制阀 PIC1005** 的 OP 设置为 100%，目的是为缸体泄压
    ![PIC1005](../source/image/AmmoniaSynthesisProcess/PIC1005-新鲜合成气去合成回路压力.png)
 
-#### 二、在现场
+#### 在现场
 
-1. 将**密封油调节阀 LV1061 和 LV1062 的前后手阀`关闭`**
+1. 将**密封油调节阀 `LV1061` 和 `LV1062` 的前后手阀关闭**
    ![密封油调节阀前后手阀](../source/image/AmmoniaSynthesisProcess/LV1061andLV1062-密封油调节阀前后手阀.png)
 2. 将**压缩机密封油齿轮泵 P202A/B 的`联锁开关`置"M"位**
    ![联锁开关位置](../source/image/AmmoniaSynthesisProcess/压缩机密封油齿轮泵P202联锁开关.png)
@@ -131,7 +131,7 @@
 
 ### 冷却水压力低
 
-#### 一、在 DCS`K101/K102`画面中
+#### 在 DCS`K101/K102`画面中
 
 1. 将**压缩机 K101 二段出口压力控制阀 PIC1005** 的 OP 设置为 100%，目的是为缸体泄压
    ![PIC1005](../source/image/AmmoniaSynthesisProcess/PIC1005-新鲜合成气去合成回路压力.png)
@@ -139,9 +139,9 @@
    ![压缩机入口控制阀](../source/image/AmmoniaSynthesisProcess/压缩机入口控制阀XV1003.png)
    ![压缩机入口控制阀](../source/image/AmmoniaSynthesisProcess/压缩机入口控制阀XV1003中控室位置.png)
 
-#### 二、在现场
+#### 在现场
 
-1. 将**密封油调节阀 LV1061 和 LV1062 的前后手阀`关闭`**
+1. 将**密封油调节阀 `LV1061` 和 `LV1062` 的前后手阀关闭**
    ![密封油调节阀前后手阀](../source/image/AmmoniaSynthesisProcess/LV1061andLV1062-密封油调节阀前后手阀.png)
 2. 将**压缩机密封油齿轮泵 P202A/B 的`联锁开关`置"M"位**
    ![联锁开关位置](../source/image/AmmoniaSynthesisProcess/压缩机密封油齿轮泵P202联锁开关.png)
