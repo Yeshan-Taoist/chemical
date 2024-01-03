@@ -27,52 +27,28 @@ export const OxidationProcess = [
             link: "/OxidationProcess/baozhachuangshangti",
           },
           {
-            text: "科目三-离心泵",
-            link: "/OxidationProcess/Hands-on-3-1",
+            text: "通用单元-离心泵",
+            link: "/OxidationProcess/Hands-on-1",
           },
           {
-            text: "科目三-离心压缩机",
-            link: "/OxidationProcess/Hands-on-3-2",
+            text: "通用单元-离心压缩机",
+            link: "/OxidationProcess/Hands-on-2",
           },
           {
-            text: "科目三-釜式反应器",
-            link: "/OxidationProcess/Hands-on-3-3",
+            text: "通用单元-换热器",
+            link: "/OxidationProcess/Hands-on-3",
           },
           {
-            text: "科目三-固定床反应器",
-            link: "/OxidationProcess/Hands-on-3-4",
+            text: "通用单元-精馏塔",
+            link: "/OxidationProcess/Hands-on-4",
           },
           {
-            text: "科目三-换热器",
-            link: "/OxidationProcess/Hands-on-3-5",
+            text: "特定单元-釜式反应器",
+            link: "/OxidationProcess/Hands-on-5",
           },
           {
-            text: "科目三-精馏塔",
-            link: "/OxidationProcess/Hands-on-3-6",
-          },
-          {
-            text: "科目四-釜式反应器",
-            link: "/OxidationProcess/Hands-on-4-1",
-          },
-          {
-            text: "科目四-固定床反应器",
-            link: "/OxidationProcess/Hands-on-4-2",
-          },
-          {
-            text: "科目四-换热器",
-            link: "/OxidationProcess/Hands-on-4-3",
-          },
-          {
-            text: "科目四-精馏塔",
-            link: "/OxidationProcess/Hands-on-4-4",
-          },
-          {
-            text: "科目四-离心泵",
-            link: "/OxidationProcess/Hands-on-4-5",
-          },
-          {
-            text: "科目四-离心压缩机",
-            link: "/OxidationProcess/Hands-on-4-6",
+            text: "特定单元-固定床反应器",
+            link: "/OxidationProcess/Hands-on-6",
           },
         ],
       },

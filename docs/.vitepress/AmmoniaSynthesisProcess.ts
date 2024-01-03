@@ -24,7 +24,23 @@ export const AmmoniaSynthesisProcess = [
         items: [
           {
             text: "创伤包扎习题",
-            link: "/OxidationProcess/baozhachuangshangti",
+            link: "/AmmoniaSynthesisProcess/baozhachuangshangti",
+          },
+          {
+            text: "通用单元-离心泵",
+            link: "/AmmoniaSynthesisProcess/Hands-on-1.md",
+          },
+          {
+            text: "通用单元-离心压缩机",
+            link: "/AmmoniaSynthesisProcess/Hands-on-2.md",
+          },
+          {
+            text: "通用单元-换热器",
+            link: "/AmmoniaSynthesisProcess/Hands-on-3.md",
+          },
+          {
+            text: "通用单元-吸收解吸",
+            link: "/AmmoniaSynthesisProcess/Hands-on-4.md",
           },
           {
             text: "通用单元-往复式压缩机",
