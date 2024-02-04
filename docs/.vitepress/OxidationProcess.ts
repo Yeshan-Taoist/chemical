@@ -27,6 +27,10 @@ export const OxidationProcess = [
             link: "/OxidationProcess/baozhachuangshangti",
           },
           {
+            text: "作业现场实操题",
+            link: "/OxidationProcess/OxidationProcess-Hands-on",
+          },
+          {
             text: "通用单元-离心泵",
             link: "/OxidationProcess/Hands-on-1",
           },
