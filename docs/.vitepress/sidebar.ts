@@ -4,6 +4,7 @@ import { ChemicalSafety } from "./ChemicalSafety";
 import { CompanyRelated } from "./CompanyRelated";
 import { OxidationProcess } from "./OxidationProcess";
 import { AmmoniaSynthesisProcess } from "./AmmoniaSynthesisProcess";
+import { HydrogenationProcess } from "./HydrogenationProcess";
 export const sidebar: DefaultTheme.Sidebar = [
   {
     text: "前言",
@@ -33,7 +34,7 @@ export const sidebar: DefaultTheme.Sidebar = [
   {
     text: "加氢工艺",
     collapsed: true,
-    items: [],
+    items: HydrogenationProcess,
   },
   {
     text: "合成氨工艺",

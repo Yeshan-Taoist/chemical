@@ -23,36 +23,8 @@ export const OxidationProcess = [
         collapsed: true,
         items: [
           {
-            text: "创伤包扎习题",
-            link: "/OxidationProcess/baozhachuangshangti",
-          },
-          {
-            text: "作业现场实操题",
+            text: "氧化工艺实操目录",
             link: "/OxidationProcess/OxidationProcess-Hands-on",
-          },
-          {
-            text: "通用单元-离心泵",
-            link: "/OxidationProcess/Hands-on-1",
-          },
-          {
-            text: "通用单元-离心压缩机",
-            link: "/OxidationProcess/Hands-on-2",
-          },
-          {
-            text: "通用单元-换热器",
-            link: "/OxidationProcess/Hands-on-3",
-          },
-          {
-            text: "通用单元-精馏塔",
-            link: "/OxidationProcess/Hands-on-4",
-          },
-          {
-            text: "特定单元-釜式反应器",
-            link: "/OxidationProcess/Hands-on-5",
-          },
-          {
-            text: "特定单元-固定床反应器",
-            link: "/OxidationProcess/Hands-on-6",
           },
         ],
       },
