@@ -1,4 +1,4 @@
-//氧化工艺模块目录
+//加氢工艺模块目录
 export const HydrogenationProcess = [
   {
     text: "考试题库",
