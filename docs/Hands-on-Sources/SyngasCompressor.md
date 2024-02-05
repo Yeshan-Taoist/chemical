@@ -77,37 +77,37 @@
 #### 在 DCS`K101/K102`画面中
 
 1. 将**压缩机 K101 二段出口压力控制阀 PIC1005** 的 OP 设置为 100%，目的是为缸体泄压
-   ![PIC1005](../source/image/AmmoniaSynthesisProcess/PIC1005-新鲜合成气去合成回路压力.png)
+   ![PIC1005-新鲜合成气去合成回路压力](https://qiniu.yeshan-taoist.cn/PIC1005-%E6%96%B0%E9%B2%9C%E5%90%88%E6%88%90%E6%B0%94%E5%8E%BB%E5%90%88%E6%88%90%E5%9B%9E%E8%B7%AF%E5%8E%8B%E5%8A%9B.png "PIC1005-新鲜合成气去合成回路压力")
 
 #### 在现场
 
 1. 将**密封油调节阀 `LV1061` 和 `LV1062` 的前后手阀关闭**
-   ![密封油调节阀前后手阀](../source/image/AmmoniaSynthesisProcess/LV1061andLV1062-密封油调节阀前后手阀.png)
+   ![LV1061andLV1062-密封油调节阀前后手阀](https://qiniu.yeshan-taoist.cn/LV1061andLV1062-%E5%AF%86%E5%B0%81%E6%B2%B9%E8%B0%83%E8%8A%82%E9%98%80%E5%89%8D%E5%90%8E%E6%89%8B%E9%98%80.png)
 2. 将**压缩机密封油齿轮泵 P202A/B 的`联锁开关`置"M"位**
-   ![联锁开关位置](../source/image/AmmoniaSynthesisProcess/压缩机密封油齿轮泵P202联锁开关.png)
+   ![压缩机密封油齿轮泵P202联锁开关](https://qiniu.yeshan-taoist.cn/%E5%8E%8B%E7%BC%A9%E6%9C%BA%E5%AF%86%E5%B0%81%E6%B2%B9%E9%BD%BF%E8%BD%AE%E6%B3%B5P202%E8%81%94%E9%94%81%E5%BC%80%E5%85%B3.png)
 3. **打开`真空冷凝器补水阀 VX5E203` 为 E203 及时补液**
-   ![真空冷凝器补水阀](../source/image/AmmoniaSynthesisProcess/VX5E203-真空冷凝器补水阀.png)
+   ![VX5E203-真空冷凝器补水阀](https://qiniu.yeshan-taoist.cn/VX5E203-%E7%9C%9F%E7%A9%BA%E5%86%B7%E5%87%9D%E5%99%A8%E8%A1%A5%E6%B0%B4%E9%98%80.png)
 4. **关闭`一抽抽气阀 VI2L0001A`、`一抽入口蒸汽截断阀 VI1L0001A`、`二抽抽气阀 VI2L0002A`、`二抽入口蒸汽截断阀 VI1L0002A`**
-   ![一抽二抽抽气阀和入口蒸汽截断阀](../source/image/AmmoniaSynthesisProcess/一抽二抽抽气阀和入口蒸汽截断阀.png)
+   ![一抽二抽抽气阀和入口蒸汽截断阀](https://qiniu.yeshan-taoist.cn/%E4%B8%80%E6%8A%BD%E4%BA%8C%E6%8A%BD%E6%8A%BD%E6%B0%94%E9%98%80%E5%92%8C%E5%85%A5%E5%8F%A3%E8%92%B8%E6%B1%BD%E6%88%AA%E6%96%AD%E9%98%80.png)
 5. **关闭`汽封抽气器入口蒸汽截止阀 VT1118`**
-   ![汽封抽气器入口蒸汽截止阀](../source/image/AmmoniaSynthesisProcess/VT1118-汽封抽气器入口蒸汽截止阀.png)
+   ![VT1118-汽封抽气器入口蒸汽截止阀](https://qiniu.yeshan-taoist.cn/VT1118-%E6%B1%BD%E5%B0%81%E6%8A%BD%E6%B0%94%E5%99%A8%E5%85%A5%E5%8F%A3%E8%92%B8%E6%B1%BD%E6%88%AA%E6%AD%A2%E9%98%80.png)
 6. **打开`蒸汽导淋阀 VX2HSNY`(位于 E-101 后面)**
-   ![蒸汽导淋阀](../source/image/AmmoniaSynthesisProcess/VX2HSNY-蒸汽导淋阀.png)
+   ![VX2HSNY-蒸汽导淋阀](https://qiniu.yeshan-taoist.cn/VX2HSNY-%E8%92%B8%E6%B1%BD%E5%AF%BC%E6%B7%8B%E9%98%80.png)
 7. **关闭`抽气蒸汽切断阀 VX1MS` 及其`旁路阀 VX2MS`(这里的旁路阀已经处于关闭状态)**
-   ![抽气蒸汽切断阀及其旁路阀](../source/image/AmmoniaSynthesisProcess/抽气蒸汽切断阀及其旁路阀.png)
+   ![抽气蒸汽切断阀及其旁路阀](https://qiniu.yeshan-taoist.cn/%E6%8A%BD%E6%B0%94%E8%92%B8%E6%B1%BD%E5%88%87%E6%96%AD%E9%98%80%E5%8F%8A%E5%85%B6%E6%97%81%E8%B7%AF%E9%98%80.png)
 8. **关闭`压缩机 K101 入口切断阀 VI1D101` 及其`旁路阀 VI2D101`(这里的旁路阀已经处于关闭状态)**
-   ![压缩机入口切断阀及其旁路阀](../source/image/AmmoniaSynthesisProcess/压缩机入口切断阀及其旁路阀.png)
+   ![压缩机入口切断阀及其旁路阀](https://qiniu.yeshan-taoist.cn/%E5%8E%8B%E7%BC%A9%E6%9C%BA%E5%85%A5%E5%8F%A3%E5%88%87%E6%96%AD%E9%98%80%E5%8F%8A%E5%85%B6%E6%97%81%E8%B7%AF%E9%98%80.png)
 9. **关闭`低压蒸汽阀 VT1109`**
-   ![低压蒸汽阀](../source/image/AmmoniaSynthesisProcess/VT1109-低压蒸汽阀.png)
+   ![VT1109-低压蒸汽阀](https://qiniu.yeshan-taoist.cn/VT1109-%E4%BD%8E%E5%8E%8B%E8%92%B8%E6%B1%BD%E9%98%80.png)
 10. **关闭`主蒸汽入口切断阀 VX1HS`及`旁路阀VX2HS`(这里的旁路阀已经处于关闭状态)**
-    ![主蒸汽入口切断阀及旁路阀](../source/image/AmmoniaSynthesisProcess/主蒸汽入口切断阀及旁路阀.png)
+    ![主蒸汽入口切断阀及旁路阀](https://qiniu.yeshan-taoist.cn/%E4%B8%BB%E8%92%B8%E6%B1%BD%E5%85%A5%E5%8F%A3%E5%88%87%E6%96%AD%E9%98%80%E5%8F%8A%E6%97%81%E8%B7%AF%E9%98%80.png)
 
 ### 真空系统液位高
 
 #### 在现场
 
 > 操作设备位置
-> ![凝液泵](../source/image/AmmoniaSynthesisProcess/P203-凝液泵.png)
+> ![P203-凝液泵](https://qiniu.yeshan-taoist.cn/P203-%E5%87%9D%E6%B6%B2%E6%B3%B5.png)
 
 1. 关闭凝液泵备用泵 P203B 的出口阀
 2. 将备用泵 P203B 打手动控制
@@ -121,7 +121,7 @@
 #### 在现场
 
 > 操作设备位置
-> ![油冷器](../source/image/AmmoniaSynthesisProcess/E201-油冷器.png)
+> ![E201-油冷器](https://qiniu.yeshan-taoist.cn/E201-%E6%B2%B9%E5%86%B7%E5%99%A8.png)
 
 1. 打开备用油冷器 E201B 的冷却水入口阀 VX1E201BW
 2. 打开备用油冷器 E201B 的冷却水出口阀 VX2E201BW
@@ -134,31 +134,31 @@
 #### 在 DCS`K101/K102`画面中
 
 1. 将**压缩机 K101 二段出口压力控制阀 PIC1005** 的 OP 设置为 100%，目的是为缸体泄压
-   ![PIC1005](../source/image/AmmoniaSynthesisProcess/PIC1005-新鲜合成气去合成回路压力.png)
+   ![PIC1005-新鲜合成气去合成回路压力](https://qiniu.yeshan-taoist.cn/PIC1005-%E6%96%B0%E9%B2%9C%E5%90%88%E6%88%90%E6%B0%94%E5%8E%BB%E5%90%88%E6%88%90%E5%9B%9E%E8%B7%AF%E5%8E%8B%E5%8A%9B.png)
 2. 关闭压缩机 K101 入口控制阀 XV1003(中控室工具柜左侧或者直接在 DCS 画面中关闭)
-   ![压缩机入口控制阀](../source/image/AmmoniaSynthesisProcess/压缩机入口控制阀XV1003.png)
-   ![压缩机入口控制阀](../source/image/AmmoniaSynthesisProcess/压缩机入口控制阀XV1003中控室位置.png)
+   ![压缩机入口控制阀XV1003](https://qiniu.yeshan-taoist.cn/%E5%8E%8B%E7%BC%A9%E6%9C%BA%E5%85%A5%E5%8F%A3%E6%8E%A7%E5%88%B6%E9%98%80XV1003.png)
+   ![压缩机入口控制阀XV1003中控室位置](https://qiniu.yeshan-taoist.cn/%E5%8E%8B%E7%BC%A9%E6%9C%BA%E5%85%A5%E5%8F%A3%E6%8E%A7%E5%88%B6%E9%98%80XV1003%E4%B8%AD%E6%8E%A7%E5%AE%A4%E4%BD%8D%E7%BD%AE.png)
 
 #### 在现场
 
 1. 将**密封油调节阀 `LV1061` 和 `LV1062` 的前后手阀关闭**
-   ![密封油调节阀前后手阀](../source/image/AmmoniaSynthesisProcess/LV1061andLV1062-密封油调节阀前后手阀.png)
+   ![密封油调节阀前后手阀](https://qiniu.yeshan-taoist.cn/LV1061andLV1062-%E5%AF%86%E5%B0%81%E6%B2%B9%E8%B0%83%E8%8A%82%E9%98%80%E5%89%8D%E5%90%8E%E6%89%8B%E9%98%80.png)
 2. 将**压缩机密封油齿轮泵 P202A/B 的`联锁开关`置"M"位**
-   ![联锁开关位置](../source/image/AmmoniaSynthesisProcess/压缩机密封油齿轮泵P202联锁开关.png)
+   ![联锁开关位置](https://qiniu.yeshan-taoist.cn/%E5%8E%8B%E7%BC%A9%E6%9C%BA%E5%AF%86%E5%B0%81%E6%B2%B9%E9%BD%BF%E8%BD%AE%E6%B3%B5P202%E8%81%94%E9%94%81%E5%BC%80%E5%85%B3.png)
 3. **关闭`汽封抽气器入口蒸汽截止阀 VT1118`**
-   ![汽封抽气器入口蒸汽截止阀](../source/image/AmmoniaSynthesisProcess/VT1118-汽封抽气器入口蒸汽截止阀.png)
+   ![汽封抽气器入口蒸汽截止阀](https://qiniu.yeshan-taoist.cn/VT1118-%E6%B1%BD%E5%B0%81%E6%8A%BD%E6%B0%94%E5%99%A8%E5%85%A5%E5%8F%A3%E8%92%B8%E6%B1%BD%E6%88%AA%E6%AD%A2%E9%98%80.png)
 4. **打开`蒸汽导淋阀 VX2HSNY`(位于 E-101 后面)**
-   ![蒸汽导淋阀](../source/image/AmmoniaSynthesisProcess/VX2HSNY-蒸汽导淋阀.png)
+   ![蒸汽导淋阀](https://qiniu.yeshan-taoist.cn/VX2HSNY-%E8%92%B8%E6%B1%BD%E5%AF%BC%E6%B7%8B%E9%98%80.png)
 5. **关闭`抽气蒸汽切断阀 VX1MS` 及其`旁路阀 VX2MS`(这里的旁路阀已经处于关闭状态)**
-   ![抽气蒸汽切断阀及其旁路阀](../source/image/AmmoniaSynthesisProcess/抽气蒸汽切断阀及其旁路阀.png)
+   ![抽气蒸汽切断阀及其旁路阀](https://qiniu.yeshan-taoist.cn/%E6%8A%BD%E6%B0%94%E8%92%B8%E6%B1%BD%E5%88%87%E6%96%AD%E9%98%80%E5%8F%8A%E5%85%B6%E6%97%81%E8%B7%AF%E9%98%80.png)
 6. **关闭`压缩机 K101 入口切断阀 VI1D101` 及其`旁路阀 VI2D101`(这里的旁路阀已经处于关闭状态)**
-   ![压缩机入口切断阀及其旁路阀](../source/image/AmmoniaSynthesisProcess/压缩机入口切断阀及其旁路阀.png)
+   ![压缩机入口切断阀及其旁路阀](https://qiniu.yeshan-taoist.cn/%E5%8E%8B%E7%BC%A9%E6%9C%BA%E5%85%A5%E5%8F%A3%E5%88%87%E6%96%AD%E9%98%80%E5%8F%8A%E5%85%B6%E6%97%81%E8%B7%AF%E9%98%80.png)
 7. 启动盘车(二层室内墙上左边红色按钮)
-   ![压缩机盘车按钮](../source/image/AmmoniaSynthesisProcess/压缩机盘车按钮.png)
+   ![压缩机盘车按钮](https://qiniu.yeshan-taoist.cn/%E5%8E%8B%E7%BC%A9%E6%9C%BA%E7%9B%98%E8%BD%A6%E6%8C%89%E9%92%AE.png)
 8. **关闭`低压蒸汽阀 VT1109`**
-   ![低压蒸汽阀](../source/image/AmmoniaSynthesisProcess/VT1109-低压蒸汽阀.png)
+   ![低压蒸汽阀](https://qiniu.yeshan-taoist.cn/VT1109-%E4%BD%8E%E5%8E%8B%E8%92%B8%E6%B1%BD%E9%98%80.png)
 9. **关闭`主蒸汽入口切断阀 VX1HS`及`旁路阀VX2HS`(这里的旁路阀已经处于关闭状态)**
-   ![主蒸汽入口切断阀及旁路阀](../source/image/AmmoniaSynthesisProcess/主蒸汽入口切断阀及旁路阀.png)
+   ![主蒸汽入口切断阀及旁路阀](https://qiniu.yeshan-taoist.cn/%E4%B8%BB%E8%92%B8%E6%B1%BD%E5%85%A5%E5%8F%A3%E5%88%87%E6%96%AD%E9%98%80%E5%8F%8A%E6%97%81%E8%B7%AF%E9%98%80.png)
 
 ## 科目四-作业现场应急处置
 
