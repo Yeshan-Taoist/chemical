@@ -15,7 +15,7 @@ export const HydrogenationProcess = [
         items: [
           {
             text: "加氢工艺实操目录",
-            link: "/OxidationProcess/HydrogenationProcess-Hands-on",
+            link: "/HydrogenationProcess/HydrogenationProcess-Hands-on",
           },
         ],
       },
