@@ -24,7 +24,7 @@ export const AmmoniaSynthesisProcess = [
         items: [
           {
             text: "合成氨工艺实操目录",
-            link: "/OxidationProcess/AmmoniaSynthesisProcess-Hands-on",
+            link: "/AmmoniaSynthesisProcess/AmmoniaSynthesisProcess-Hands-on",
           },
         ],
       },
